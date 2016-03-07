@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="23px"
+	 viewBox="-11.457 0 100 23" enable-background="new -11.457 0 100 23" xml:space="preserve">
+<title>Group</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="Desktop_one_page" transform="translate(-970.000000, -3931.000000)" sketch:type="MSArtboardGroup">
+		<g id="Group" transform="translate(971.000000, 3932.000000)" sketch:type="MSLayerGroup">
+			<path id="Left-thin-Copy" sketch:type="MSShapeGroup" fill="#0000FD" d="M43.873,9.599L39.678,9.6l0.001,6.027H35.06V9.599
+				L30.873,9.6l6.501-6.227L43.873,9.599z"/>
+			<path id="Circled-plus-Copy-2" sketch:type="MSShapeGroup" fill="none" stroke="#0000FD" stroke-width="2" d="M27.246,10.284
+				c0,5.679,4.609,10.283,10.297,10.283c5.686,0,10.297-4.604,10.297-10.283S43.229,0,37.543,0C31.855,0,27.246,4.605,27.246,10.284
+				z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 388.543 300)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">    </tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">    padding-top:10%;</tspan></text>
+</g>
+<rect x="54.956" y="9.947" fill="#0000FD" width="33.587" height="3.011"/>
+<rect x="-11.457" y="9.947" fill="#0000FD" width="33.587" height="3.011"/>
+</svg>
