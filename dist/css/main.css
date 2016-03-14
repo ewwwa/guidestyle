@@ -1,0 +1,8 @@
+body {
+  color: orange;
+  background-image: -webkit-linear-gradient(red, blue);
+  background-image: linear-gradient(red, blue);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
